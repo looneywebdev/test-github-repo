@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jotaoncode/test-github-repo/issues"
   },
-  "homepage": "https://github.com/jotaoncode/test-github-repo#readme"
+  "homepage": "https://github.com/jotaoncode/test-github-repo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
