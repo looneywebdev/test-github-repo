@@ -1,0 +1,19 @@
+{
+  "name": "test-github-repo",
+  "version": "1.0.0",
+  "description": "Integration of github with heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jotaoncode/test-github-repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jotaoncode/test-github-repo/issues"
+  },
+  "homepage": "https://github.com/jotaoncode/test-github-repo#readme"
+}
